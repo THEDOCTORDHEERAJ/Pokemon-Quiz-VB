@@ -1,0 +1,29 @@
+C:\Software\Pokemon Quiz\Pokemon Quiz\bin\Debug\Pokemon Quiz.exe.config
+C:\Software\Pokemon Quiz\Pokemon Quiz\bin\Debug\Pokemon Quiz.exe
+C:\Software\Pokemon Quiz\Pokemon Quiz\bin\Debug\Pokemon Quiz.pdb
+C:\Software\Pokemon Quiz\Pokemon Quiz\bin\Debug\Pokemon Quiz.xml
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\Pokemon Quiz.vbprojAssemblyReference.cache
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Form1.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q8.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q9.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q10.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q11.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q12.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q13.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q14.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q15.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q1.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Wrong_Answer.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q2.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q3.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q4.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q5.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q6.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Q7.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Resources.resources
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\Pokemon Quiz.vbproj.GenerateResource.cache
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\Pokemon Quiz.vbproj.CoreCompileInputs.cache
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\Pokemon Quiz.exe
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\Pokemon Quiz.xml
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\Pokemon Quiz.pdb
+C:\Software\Pokemon Quiz\Pokemon Quiz\obj\Debug\WindowsApp1.Thank_You.resources
